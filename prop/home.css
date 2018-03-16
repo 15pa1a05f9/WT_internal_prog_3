@@ -1,0 +1,52 @@
+     a:link {
+             text-decoration: none;
+             color:blue;
+
+             
+          }
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    align:center;
+}
+body{
+   
+    background-size: 100%  150%;
+    
+}
+form{
+    padding-left:35%;
+    padding-right:20%;
+}	
+.button{
+    margin-left:30%;
+     padding: 15px 32px;
+    text-align: center;
+}
+b{
+    color:black;
+    align:center;
+    font-size: 120%;
+}
+h1{
+    text-align: center;
+    font-size: 100%;
+    color:blue;
+}
+h3{
+    color:blue;
+}
+
+.home-img {
+    width: 100%;
+}
+.footer {
+    color: grey;
+    
+    font-size: 0.8em;
+}
